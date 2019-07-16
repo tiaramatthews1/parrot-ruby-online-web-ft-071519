@@ -7,5 +7,6 @@ end
 
 def parrot
   phrase = parrot("Pretty Bird")
-  
+  puts "Pretty Bird"
+  "Pretty Bird"
 end
